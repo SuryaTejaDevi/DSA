@@ -1,3 +1,3 @@
- Got 50 Days Badge
+Got 50 Days Badge
 
 Learining DevOps
